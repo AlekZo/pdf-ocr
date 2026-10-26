@@ -1,0 +1,14 @@
+# downloaded models (large; see README)
+models/
+*.tar
+
+# local test data and logs (may contain personal documents)
+samples/
+*.log
+run_test.bat
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/

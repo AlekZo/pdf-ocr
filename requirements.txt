@@ -1,0 +1,6 @@
+# Tested with Python 3.9 - 3.13 (PaddlePaddle 3.2 has no wheels for 3.14 yet)
+paddlepaddle==3.2.0
+paddleocr==3.7.0
+paddlex[ocr]==3.7.2  # extras for --structure (tables / layout)
+pymupdf>=1.24
+numpy
